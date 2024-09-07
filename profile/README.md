@@ -1,5 +1,6 @@
 <div align="center" text-align="center">
-  
+  <img src="images/pac.gif" width="" height="">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&pause=100&color=007BFF&center=true&vCenter=true&lines=EXPLOIT+EXPERTS!)](https://git.io/typing-svg) 
 </div>
 
@@ -8,16 +9,20 @@
 
 # 📃Description
 
-## Portuguese
+## 🇧🇷 - Portuguese
 <strong>A Exploit Experts é uma equipe de desenvolvimento Java focada na criação de soluções robustas e escaláveis. Utilizamos as melhores práticas da engenharia de software, combinando metodologias ágeis como Kanban e Scrum com tecnologias de ponta como Spring Framework, Maven e Gradle. Nosso portfólio abrange desde aplicações web e APIs RESTful até sistemas de integração de dados complexos. Buscamos sempre otimizar o desempenho e a segurança de nossas soluções, utilizando bancos de dados relacionais e não relacionais.</strong>
 
 
-## English
+## 🇺🇸	- English
 <strong>Exploit Experts is a Java development team focused on creating robust and scalable solutions. We use the best software engineering practices, combining agile methodologies such as Kanban and Scrum with cutting-edge technologies such as Spring Framework, Maven and Gradle. Our portfolio ranges from web applications and RESTful APIs to complex data integration systems. We always seek to optimize the performance and security of our solutions, using relational and non-relational databases.</strong>
 
 <br>
 
 # 🧟Team
+
+<div style="display: flex; align-items: center;">
+<div align="left">
+
 
 || Name             | Role           |
 | ---------------- | ---------------- | -------------- |
@@ -27,6 +32,10 @@
 | <img src="https://avatars.githubusercontent.com/u/126990110?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Jonathanwsr'>Jonathan Rocha</a> | Quality Analyst |
 | <img src="https://avatars.githubusercontent.com/u/180599406?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Klismans-Nazario'>Klismans Nazário</a> | Collaborator |
 | <img src="https://avatars.githubusercontent.com/u/126925371?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/leandrouser'>Leandro Oliveira</a> | Tester |
+
+</div>
+<img src="images/typing.gif" margin-left="20px" width="250" height="250">
+</div>
 
 <br>
 
@@ -62,4 +71,11 @@
 
 # 🤝Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.😄
+<div style="display: flex; align-items: center;">
+  <h3 align="left">
+    Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. 😄  
+
+  </h3>
+  <img src="images/GitHub-logo.gif" width="100" height="100">
+</div>
+    
