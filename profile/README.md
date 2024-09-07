@@ -1,5 +1,7 @@
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" />
+</div>
 <div align="center" text-align="center">
-  <img src="images/pac.gif" width="" height="">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&pause=100&color=007BFF&center=true&vCenter=true&lines=EXPLOIT+EXPERTS!)](https://git.io/typing-svg) 
 </div>
@@ -71,11 +73,13 @@
 
 # 🤝Contributing
 
-<div style="display: flex; align-items: center;">
+<div display="flex" align-items="center">
   <h3 align="left">
     Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. 😄  
 
   </h3>
   <img src="images/GitHub-logo.gif" width="100" height="100">
 </div>
-    
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+</div>
