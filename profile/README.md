@@ -23,7 +23,6 @@
 # 🧟Team
 
 <div style="display: flex; align-items: center;">
-<div align="left">
 
 
 || Name             | Role           |
@@ -35,8 +34,7 @@
 | <img src="https://avatars.githubusercontent.com/u/180599406?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Klismans-Nazario'>Klismans Nazário</a> | Collaborator |
 | <img src="https://avatars.githubusercontent.com/u/126925371?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/leandrouser'>Leandro Oliveira</a> | Tester |
 
-</div>
-    <img src="images/typing.gif" margin-left="20px" width="250" height="250" align="right">
+<img src="images/typing.gif" width="20" height="20">
 </div>
 
 <br>
@@ -71,15 +69,11 @@
 
 # 🤝Contributing
 
-<div display="flex" align-items="center">
-<div align="left" >
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <h3>
-    Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. 😄  
+    Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
   </h3>
-</div>
-<div align="right">
-  <img src="images/GitHub-logo.gif" width="100" height="100" >
-</div>
+  <img src="images/GitHub-logo.gif" width="100" height="100">
 </div>
 
 <div style="text-align: center;">
