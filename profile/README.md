@@ -34,7 +34,7 @@
 | <img src="https://avatars.githubusercontent.com/u/180599406?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Klismans-Nazario'>Klismans Nazário</a> | Collaborator |
 | <img src="https://avatars.githubusercontent.com/u/126925371?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/leandrouser'>Leandro Oliveira</a> | Tester |
 
-<img src="images/typing.gif" width="20" height="20">
+<img src="https://github.com/Exploit-Experts/.github/blob/main/profile/images/typing.gif" width="100" height="100">
 </div>
 
 <br>
