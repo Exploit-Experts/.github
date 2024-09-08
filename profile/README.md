@@ -1,7 +1,10 @@
 <div style="text-align: center;">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" />
+
 </div>
 <div align="center" text-align="center">
+
+<img src="https://github.com/Exploit-Experts/.github/blob/main/profile/images/typing.gif" width="100" height="100" align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&pause=100&color=007BFF&center=true&vCenter=true&lines=EXPLOIT+EXPERTS!)](https://git.io/typing-svg) 
 </div>
@@ -34,7 +37,7 @@
 | <img src="https://avatars.githubusercontent.com/u/180599406?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Klismans-Nazario'>Klismans Nazário</a> | Collaborator |
 | <img src="https://avatars.githubusercontent.com/u/126925371?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/leandrouser'>Leandro Oliveira</a> | Tester |
 
-<img src="https://github.com/Exploit-Experts/.github/blob/main/profile/images/typing.gif" width="100" height="100">
+
 </div>
 
 <br>
