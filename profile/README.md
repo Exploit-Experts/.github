@@ -74,10 +74,14 @@
 # 🤝Contributing
 
 <div display="flex" align-items="center">
-  <h3 align="left">
+<div align="left" >
+  <h3>
     Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. 😄  
   </h3>
-  <img src="images/GitHub-logo.gif" width="100" height="100" align="right">
+</div>
+<div align="right">
+  <img src="images/GitHub-logo.gif" width="100" height="100" >
+</div>
 </div>
 
 <div style="text-align: center;">
