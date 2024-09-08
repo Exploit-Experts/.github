@@ -36,9 +36,7 @@
 | <img src="https://avatars.githubusercontent.com/u/126925371?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/leandrouser'>Leandro Oliveira</a> | Tester |
 
 </div>
-<div align="right">
     <img src="images/typing.gif" margin-left="20px" width="250" height="250" align="right">
-</div>
 </div>
 
 <br>
