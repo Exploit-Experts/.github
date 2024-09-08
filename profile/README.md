@@ -1,5 +1,7 @@
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" />
+</div>
 <div align="center" text-align="center">
-  <img src="images/pac.gif" width="" height="">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&pause=100&color=007BFF&center=true&vCenter=true&lines=EXPLOIT+EXPERTS!)](https://git.io/typing-svg) 
 </div>
@@ -34,7 +36,9 @@
 | <img src="https://avatars.githubusercontent.com/u/126925371?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/leandrouser'>Leandro Oliveira</a> | Tester |
 
 </div>
-<img src="images/typing.gif" margin-left="20px" width="250" height="250">
+<div align="right">
+    <img src="images/typing.gif" margin-left="20px" width="250" height="250" align="right">
+</div>
 </div>
 
 <br>
@@ -53,8 +57,6 @@
   ![Static Badge](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=%230052CC&color=%2397979A)
   ![Static Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=%236DB33F&color=%23000000)
 
-
-
 </div>
 
 <br>
@@ -71,11 +73,14 @@
 
 # 🤝Contributing
 
-<div style="display: flex; align-items: center;">
+<div display="flex" align-items="center">
   <h3 align="left">
     Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. 😄  
 
   </h3>
-  <img src="images/GitHub-logo.gif" width="100" height="100">
+  <img src="images/GitHub-logo.gif" width="100" height="100" align="right">
 </div>
-    
+
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+</div>
