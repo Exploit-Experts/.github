@@ -40,7 +40,7 @@
 # :hammer_and_wrench: Technologies
 <div align="left">
   
-  ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=java,spring,html,css,javascript,typescript&theme=dark)
+  ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=java,spring,html,css,javascript,typescript&theme=dark)<br>
   ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=sass,bootstrap,tomcat,mysql,angular&theme=dark)
 </div>
 
