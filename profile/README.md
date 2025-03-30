@@ -27,12 +27,12 @@
 
 || Name             | Role           |
 | ---------------- | ---------------- | -------------- |
-| <img src="https://avatars.githubusercontent.com/u/114788642?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/brunoliratm'>Bruno Magno</a> | Spring Developer |
+| <img src="https://avatars.githubusercontent.com/u/114788642?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/brunoliratm'>Bruno Magno</a> | Angular & Spring Developer |
 | <img src="https://avatars.githubusercontent.com/u/127964717?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Paulo-Araujo-Jr'>Paulo de Araujo</a> | Spring Developer |
-| <img src="https://avatars.githubusercontent.com/u/126338859?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/MrMesquita'>Marcelo Mesquita</a> | Web Developer |
-| <img src="https://avatars.githubusercontent.com/u/126990110?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Jonathanwsr'>Jonathan Rocha</a> | Quality Analyst |
+| <img src="https://avatars.githubusercontent.com/u/126338859?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/MrMesquita'>Marcelo Mesquita</a> | PM & Web Developer |
+| <img src="https://avatars.githubusercontent.com/u/126990110?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Jonathanwsr'>Jonathan Rocha</a> | Collaborator |
 | <img src="https://avatars.githubusercontent.com/u/180599406?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Klismans-Nazario'>Klismans Nazário</a> | Collaborator |
-| <img src="https://avatars.githubusercontent.com/u/126925371?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/leandrouser'>Leandro Oliveira</a> | Developer|
+| <img src="https://avatars.githubusercontent.com/u/126925371?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/leandrouser'>Leandro Oliveira</a> | Java Developer|
 </div>
 
 <br>
@@ -59,17 +59,6 @@
     <a href="https://exploit-experts.github.io/organization-portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Portfolio-Exploit%20Experts-blue?style=for-the-badge" alt="Visit Portfolio Badge">
     </a>
-</div>
-
-<br>
-
-# :rocket: Projects
-<div align="left">
-    <ul>
-        <li><a href="https://github.com/Exploit-Experts/RickAndMorthy-client" target="_blank">RickAndMorty-client</a> - A web client application that consumes the Rick and Morty API to display series information.</li>
-        <li><a href="https://github.com/Exploit-Experts/RickAndMorty-Spring-API" target="_blank">RickAndMorty-Spring-API</a> - A Spring Boot API that provides endpoints for accessing Rick and Morty data.</li>
-        <li><a href="https://github.com/Exploit-Experts/leasing-system" target="_blank">leasing-system</a> - A comprehensive system for managing vehicle leasing, including customer management and contract generation.</li>
-    </ul>
 </div>
 
 <br>
