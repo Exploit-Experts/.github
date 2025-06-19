@@ -2,73 +2,138 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" />
 </div>
 
-<div align="center" text-align="center">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/white.svg" width="180" height="180">
+    <source media="(prefers-color-scheme: light)" srcset="./images/black.svg" width="180" height="180">
+    <img src="./images/white.svg" width="180" height="180" align="center" alt="ZEKRA Logo">
+  </picture>
 
-  <img src="https://github.com/Exploit-Experts/.github/blob/main/profile/images/typing.gif" width="100" height="100" align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007BFF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=🐉+Zeal+for+Engineering,+Knowledge,+Research+%26+Advancement+🐉)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&pause=100&color=007BFF&center=true&vCenter=true&lines=EXPLOIT+EXPERTS!)](https://git.io/typing-svg) 
 </div>
 
-<br>
+</br>
 
-# 📃 Description
+# 📃 About ZEKRA
 
-## 🇧🇷 - Portuguese
-<strong>A Exploit Experts é uma equipe de desenvolvimento Java focada na criação de soluções robustas e escaláveis. Utilizamos as melhores práticas da engenharia de software, combinando metodologias ágeis como Kanban e Scrum com tecnologias de ponta como Spring Framework, Maven e Gradle. Nosso portfólio abrange desde aplicações web e APIs RESTful até sistemas de integração de dados complexos. Buscamos sempre otimizar o desempenho e a segurança de nossas soluções, utilizando bancos de dados relacionais e não relacionais.</strong>
+<table>
+<tr>
+<td width="50%">
 
-## 🇺🇸 - English
-<strong>Exploit Experts is a Java development team focused on creating robust and scalable solutions. We use the best software engineering practices, combining agile methodologies such as Kanban and Scrum with cutting-edge technologies such as Spring Framework, Maven and Gradle. Our portfolio ranges from web applications and RESTful APIs to complex data integration systems. We always seek to optimize the performance and security of our solutions, using relational and non-relational databases.</strong>
+### 🇧🇷 Português
 
-<br>
+**A ZEKRA é uma organização de tecnologia movida por paixão, disciplina e visão. Nosso foco é a criação de soluções escaláveis, modulares e sustentáveis.**
 
-# 🧟 Team
+Utilizamos stacks modernas como **Java com Spring**, **Node.js**, **Angular**, **Docker**, e bancos relacionais/não-relacionais. Somos motivados pela sede de avanço técnico, pesquisa constante e construção consciente.
 
-<div style="display: flex; align-items: center;">
+</td>
+<td width="50%">
 
-|| Name             | Role           |
-| ---------------- | ---------------- | -------------- |
-| <img src="https://avatars.githubusercontent.com/u/114788642?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/brunoliratm'>Bruno Magno</a> | Angular & Spring Developer |
-| <img src="https://avatars.githubusercontent.com/u/127964717?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Paulo-Araujo-Jr'>Paulo de Araujo</a> | Spring Developer |
-| <img src="https://avatars.githubusercontent.com/u/126338859?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/MrMesquita'>Marcelo Mesquita</a> | PM & Back End Developer |
-| <img src="https://avatars.githubusercontent.com/u/126990110?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Jonathanwsr'>Jonathan Rocha</a> | Collaborator |
-| <img src="https://avatars.githubusercontent.com/u/180599406?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/Klismans-Nazario'>Klismans Nazário</a> | Collaborator |
-| <img src="https://avatars.githubusercontent.com/u/126925371?v=4" float="left" width="40px" height=40px> | <a href='https://github.com/leandrouser'>Leandro Oliveira</a> | Java Developer|
+### 🇺🇸 English
+
+**ZEKRA is a technology organization driven by passion, discipline, and vision. We focus on creating scalable, modular, and sustainable solutions.**
+
+Using modern stacks like **Java with Spring**, **Node.js**, **Angular**, **Docker**, and relational/non-relational databases. We are fueled by the zeal for technical advancement, continuous research, and conscious building.
+
+</td>
+</tr>
+</table>
+
+</br>
+</br>
+
+# 🧠 Philosophy
+
+<div align="center">
+
+> **ZEKRA = Zeal for Engineering, Knowledge, Research & Advancement**
+
+> _We are a symbol of order, power, and clarity — as represented by our dragon logo._
+
 </div>
 
-<br>
+### Our Mission
 
-# :hammer_and_wrench: Technologies
+- **🔥 Passion-Driven Development**: Every line of code is written with purpose and dedication
+- **🏗️ Architectural Excellence**: Building robust, scalable, and maintainable systems
+- **🌱 Continuous Growth**: Constantly learning and evolving with emerging technologies
+- **🤝 Collaborative Innovation**: Fostering teamwork and knowledge sharing
+- **💡 Problem Solving**: Creating elegant solutions for complex challenges
+
+</br>
+
+</br>
+
+# 🚀 Featured Projects
+
+## 🎬 Rick and Morty Database
+
+**Full-stack application for Rick and Morty series data management**
+
+- **Backend**: [RickAndMorty-Spring-API](https://github.com/Exploit-Experts/RickAndMorty-Spring-API) - RESTful API built with Java & Spring Boot
+- **Frontend**: [RickAndMorthy-client](https://github.com/Exploit-Experts/RickAndMorthy-client) - Interactive Angular TypeScript client
+- **Documentation**: [Docs-RickAndMorty](https://github.com/Exploit-Experts/Docs-RickAndMorty) - Complete project documentation with Docusaurus
+
+## 🗳️ Votify System
+
+**Modern voting platform for creating and managing polls**
+
+- **Backend**: [Votify-Api](https://github.com/Exploit-Experts/Votify-Api) - REST API for voting session management
+- **Frontend**: [Votify-Client](https://github.com/Exploit-Experts/Votify-Client) - Responsive Angular web application
+
+## 🚗 Leasing System
+
+**Comprehensive vehicle rental management platform**
+
+- **Repository**: [leasing-system](https://github.com/Exploit-Experts/leasing-system) - User management, vehicle reservations & lease agreements
+
+</br>
+</br>
+
+# 🧙‍♂️ Team
+
 <div align="left">
-  
-  ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=java,spring,html,css,javascript,typescript&theme=dark)<br>
-  ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=sass,bootstrap,tomcat,mysql,angular&theme=dark)
+
+| Avatar                                                                                                               | Name                 | Role                 | GitHub                                                 |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------- | ------------------------------------------------------ |
+| <img src="https://avatars.githubusercontent.com/u/114788642?v=4" width="50" height="50" style="border-radius: 50%;"> | **Bruno Magno**      | Full-Stack Developer | [@brunoliratm](https://github.com/brunoliratm)         |
+| <img src="https://avatars.githubusercontent.com/u/127964717?v=4" width="50" height="50" style="border-radius: 50%;"> | **Paulo de Araujo**  | Full-Stack Developer | [@Paulo-Araujo-Jr](https://github.com/Paulo-Araujo-Jr) |
+| <img src="https://avatars.githubusercontent.com/u/126338859?v=4" width="50" height="50" style="border-radius: 50%;"> | **Marcelo Mesquita** | Full-Stack Developer | [@MrMesquita](https://github.com/MrMesquita)           |
+
 </div>
 
-<br>
+</br>
+</br>
 
-# :desktop_computer: Operational Systems & Tools
+# Technologies
+
+### Stack
+
 <div align="left">
-    
-  ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=ubuntu,windows,vscode,idea,postman,jira,obsidian&theme=dark)
-</div>
 
-<br>
+![Tech](https://skill-icons-v2.vercel.app/api/icons?i=java,spring,ts,js,angular,nodejs,mysql,postgresql,docker&theme=dark)
 
-# :link: Access Our Portfolio
+### OS & Tools
+
 <div align="left">
-    <a href="https://exploit-experts.github.io/organization-portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20Portfolio-Exploit%20Experts-blue?style=for-the-badge" alt="Visit Portfolio Badge">
-    </a>
+
+![Tools](https://skill-icons-v2.vercel.app/api/icons?i=ubuntu,windows,vscode,idea,postman,jira,figma,git,obsidian&theme=dark)
+
 </div>
 
-<br>
+</br>
 
-# 🤝 Contributing
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <h3>Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.</h3>
-    <img src="https://github.com/Exploit-Experts/.github/blob/main/profile/images/GitHub-logo.gif" width="100" height="100">
+# 📎 Portfolio
+
+<div align="left">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-ZEKRA-000000?style=for-the-badge&logo=dragon&logoColor=white" alt="Visit Portfolio Badge">
+  </a>
 </div>
+
+</br>
 
 <div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:191970&section=footer" />
 </div>
